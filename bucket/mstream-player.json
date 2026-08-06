@@ -1,10 +1,10 @@
 {
-    "version": "0.1.1",
+    "version": "0.1.2",
     "description": "Terminal player and headless server-audio engine for mStream",
     "homepage": "https://github.com/IrosTheBeggar/mstream-terminal-player",
     "license": "GPL-3.0-only",
-    "url": "https://github.com/IrosTheBeggar/mstream-terminal-player/releases/download/v0.1.1/mstream-player-win32-x64.exe#/mstream-player.exe",
-    "hash": "921c7413930c4877bbf5778160e354b068e131c6e4340e3c63183570581a7d68",
+    "url": "https://github.com/IrosTheBeggar/mstream-terminal-player/releases/download/v0.1.2/mstream-player-win32-x64.exe#/mstream-player.exe",
+    "hash": "3b2702fceec8374c34e908a147c638e409a3c7ebe54ff65d388883748a207654",
     "bin": "mstream-player.exe",
     "checkver": {
         "github": "https://github.com/IrosTheBeggar/mstream-terminal-player"
