@@ -1,0 +1,7 @@
+# The bump script runs on unix CI runners: keep it LF on every checkout,
+# including Windows clones with autocrlf on. JSON and YAML follow along
+# for consistency; nothing that reads them cares either way.
+* text=auto
+*.sh text eol=lf
+*.json text eol=lf
+*.yml text eol=lf
